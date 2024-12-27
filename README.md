@@ -21,6 +21,11 @@ Here are some of the projects I've been working on:
   A PowerShell script to disable Windows Defender for malware analysis purposes.  
   [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/disable-windows-defender?style=social)](https://github.com/nitroz3us/disable-windows-defender)
 
+- **Telegram Budget Tracker**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+  A Telegram bot for personal expense tracking and budget management. Features category-based transaction logging, monthly analysis, Excel reports, and private user authentication. Built with Python, python-telegram-bot, and Supabase.  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/telegram-budget-tracker?style=social)](https://github.com/nitroz3us/telegram-budget-tracker)
+
 - **GPThreatIntel-Summarizer**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
   A Python tool that uses OpenAI models and CTI to automate report summarization. Extract key insights from CTI reports and generate concise summaries.  
