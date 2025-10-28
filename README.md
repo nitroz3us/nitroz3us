@@ -45,8 +45,6 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitroz3us&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitroz3us&layout=compact&theme=radical)
 
 ---
