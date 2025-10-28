@@ -1,6 +1,6 @@
 # Hi there, I'm nitroz3us! 👋
 
-**Cyber Threat Analyst | CEH | BTL1**
+**Cyber Incident Responder | Digital Forensics & Threat Hunting | CEH | BTL1**
 
 🔍 Passionate about cybersecurity, threat analysis, and developing tools to enhance cyber defense mechanisms.
 
