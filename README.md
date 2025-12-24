@@ -18,10 +18,13 @@ Here are some of the projects I've been working on:
 
 - **ShadowPulse**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  Investigate IPs, domains, and file hashes in
-one place. Aggregates intel from VirusTotal,
-Shodan, GreyNoise, and AbuselPDB.  
+  Investigate IPs, domains, and file hashes in one place. Aggregates intel from VirusTotal, Shodan, GreyNoise, and AbuseIPDB.  
   🌐 [shadowpulse.dev](https://www.shadowpulse.dev/)
+
+- **Docstack**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+  A privacy-first PDF merger that runs 100% in your browser. Merge, reorder, rotate, and preview pages with visual drag-and-drop management.  
+  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/docstack?style=social)](https://github.com/nitroz3us/docstack)
 
 - **disable-windows-defender**  
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
