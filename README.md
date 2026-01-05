@@ -48,12 +48,6 @@ Here are some of the projects I've been working on:
 
 ---
 
-## 🏆 Achievements
-
-![Starstruck](https://img.shields.io/badge/Starstruck-%F0%9F%8C%9F-brightgreen)
-
----
-
 ## 📫 Contact Me
 
 Feel free to reach out via [Mastodon](https://infosec.exchange/@nitroz3us) or through my [website](https://nitrozeus.vercel.app/). Let's collaborate and make the cyber world a safer place!
