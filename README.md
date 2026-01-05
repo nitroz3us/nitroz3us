@@ -48,12 +48,6 @@ Here are some of the projects I've been working on:
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitroz3us&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
 
 ![Starstruck](https://img.shields.io/badge/Starstruck-%F0%9F%8C%9F-brightgreen)
