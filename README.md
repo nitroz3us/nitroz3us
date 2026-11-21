@@ -1,53 +1,26 @@
-# Hi there, I'm nitroz3us! 👋
+# Ashraff (nitroz3us)
 
-**Cyber Incident Responder | Digital Forensics & Threat Hunting | CEH | BTL1**
+Incident responder at EY, based in Singapore. I investigate intrusions and build AI tooling for threat intel and detection teams.
 
-🔍 Passionate about cybersecurity, threat analysis, and developing tools to enhance cyber defense mechanisms.
+[mdashraff.com](https://mdashraff.com) · [CTF writeups](https://nitrozeus.gitbook.io/ctfs/) · [LinkedIn](https://www.linkedin.com/in/muhammad-ashraff-69586a17a/) · [Mastodon](https://infosec.exchange/@nitroz3us)
 
-🌐 **Website:** [mdashraff.com](https://mdashraff.com/)
+## What I build
 
-📚 **CTF Write-ups:** [nitrozeus.gitbook.io/ctfs/](https://nitrozeus.gitbook.io/ctfs/)
+| Project | What it does | Where |
+| --- | --- | --- |
+| **Huntsman** | Agentic hunting workspace. RAG over live sources and uploaded reports turns IOCs and TTPs into validated Splunk hunt packages. | Internal |
+| **Heartbeat** | Threat operations platform: news aggregation, ransomware tracking, geolocation mapping and LLM-assisted monthly TI reviews. | Internal |
+| **ShadowPulse** | Look up an IP, domain or hash once and get VirusTotal, Shodan, GreyNoise and AbuseIPDB in one view. | [Live](https://shadow-pulse-py.vercel.app/) |
+| **docstack** | Merge, splice and rotate PDFs in the browser. Files never leave your device. | [Live](https://docstack.tools) · [Code](https://github.com/nitroz3us/docstack) |
+| **disable-windows-defender** | PowerShell script that switches Defender off inside malware analysis VMs. | [Code](https://github.com/nitroz3us/disable-windows-defender) |
+| **GPThreatIntel-Summarizer** | Summarises threat intelligence reports with OpenAI. | [Code](https://github.com/nitroz3us/GPThreatIntel-Summarizer) |
+| **VoicePointGPT** | Writes a script and voiceover for each slide of a PowerPoint deck. | [Code](https://github.com/nitroz3us/VoicePointGPT) |
+| **telegram-budget-tracker** | Telegram bot for logging expenses and tracking a monthly budget. | [Code](https://github.com/nitroz3us/telegram-budget-tracker) |
 
-🐘 **Mastodon:** [@nitroz3us@infosec.exchange](https://infosec.exchange/@nitroz3us)
+## What I write
 
----
+- [Your Agent Is Only as Good as Its Harness](https://www.mdashraff.com/blog/harness-engineering): why the system around the model decides whether an AI agent is reliable
+- [How Scattered Spider Led Me to The Com](https://www.mdashraff.com/research/scattered-spider-to-the-com): public reporting on Scattered Spider, ShinyHunters and LAPSUS$, consolidated
+- [Ebolas Stealer](https://www.mdashraff.com/blog/ebolas-infostealer-overview) and [DarkCrystal RAT](https://www.mdashraff.com/blog/dcrat-disguising-as-luna-grabber/): malware analysis
 
-## 🛠️ Projects
-
-Here are some of the projects I've been working on:
-
-- **ShadowPulse**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  Investigate IPs, domains, and file hashes in one place. Aggregates intel from VirusTotal, Shodan, GreyNoise, and AbuseIPDB.  
-  🌐 [shadowpulse.dev](https://shadow-pulse-py.vercel.app/)
-  
-- **docstack**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-  A privacy-first PDF merger that runs 100% in your browser. Merge, reorder, rotate, and preview pages with visual drag-and-drop management.  
-  🌐 [docstack.tools](https://docstack.tools)
-
-- **disable-windows-defender**  
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
-  A PowerShell script to disable Windows Defender for malware analysis purposes.  
-  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/disable-windows-defender?style=social)](https://github.com/nitroz3us/disable-windows-defender)
-
-- **Telegram Budget Tracker**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  A Telegram bot for personal expense tracking and budget management. Features category-based transaction logging, monthly analysis, Excel reports, and private user authentication. Built with Python, python-telegram-bot, and Supabase.  
-  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/telegram-budget-tracker?style=social)](https://github.com/nitroz3us/telegram-budget-tracker)
-
-- **GPThreatIntel-Summarizer**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  A Python tool that uses OpenAI models and CTI to automate report summarization. Extract key insights from CTI reports and generate concise summaries.  
-  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/GPThreatIntel-Summarizer?style=social)](https://github.com/nitroz3us/GPThreatIntel-Summarizer)
-
-- **VoicePointGPT**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  Upload your PowerPoint slides and let this tool do the work! Automatically generate a script for each slide, enhancing your presentation preparation.  
-  [![GitHub Repo stars](https://img.shields.io/github/stars/nitroz3us/VoicePointGPT?style=social)](https://github.com/nitroz3us/VoicePointGPT)
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out via [Mastodon](https://infosec.exchange/@nitroz3us) or through my [website](https://nitrozeus.vercel.app/). Let's collaborate and make the cyber world a safer place!
+More at [mdashraff.com/blog](https://www.mdashraff.com/blog).
