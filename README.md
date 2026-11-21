@@ -8,7 +8,7 @@ I build AI tooling for security operations at EY in Singapore. My background is 
 
 | Project | What it does | Where |
 | --- | --- | --- |
-| **Huntsman** | Turns threat reports into analyst-reviewed hunts. An LLM extracts TTPs and IOCs with source citations, then drafts and validates Splunk SPL or Sentinel KQL before it runs. | Internal |
+| **Huntsman** | Agentic threat hunting on live Splunk. An agent investigates an analyst's question through Splunk MCP, with every search checked by a read-only safety gate. Threat reports become source-cited briefs and hunt hypotheses. | Internal |
 | **Heartbeat** | Collects security news, CVEs, CISA KEV entries and ransomware victims, flags what is relevant to the client, and drafts the weekly threat bulletin as slides, PDF and email. | Internal |
 | **ShadowPulse** | Look up an IP, domain or hash once and get VirusTotal, Shodan, GreyNoise and AbuseIPDB in one view. | [Live](https://shadow-pulse-py.vercel.app/) |
 | **docstack** | Merge, splice and rotate PDFs in the browser. Files never leave your device. | [Live](https://docstack.tools) · [Code](https://github.com/nitroz3us/docstack) |
