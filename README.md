@@ -8,8 +8,8 @@ I build AI tooling for security operations at EY in Singapore. My background is 
 
 | Project | What it does | Where |
 | --- | --- | --- |
-| **Huntsman** | Agentic hunting workspace. RAG over live sources and uploaded reports turns IOCs and TTPs into validated Splunk hunt packages. | Internal |
-| **Heartbeat** | Threat operations platform: news aggregation, ransomware tracking, geolocation mapping and LLM-assisted monthly TI reviews. | Internal |
+| **Huntsman** | Turns threat reports into analyst-reviewed hunts. An LLM extracts TTPs and IOCs with source citations, then drafts and validates Splunk SPL or Sentinel KQL before it runs. | Internal |
+| **Heartbeat** | Collects security news, CVEs, CISA KEV entries and ransomware victims, flags what is relevant to the client, and drafts the weekly threat bulletin as slides, PDF and email. | Internal |
 | **ShadowPulse** | Look up an IP, domain or hash once and get VirusTotal, Shodan, GreyNoise and AbuseIPDB in one view. | [Live](https://shadow-pulse-py.vercel.app/) |
 | **docstack** | Merge, splice and rotate PDFs in the browser. Files never leave your device. | [Live](https://docstack.tools) · [Code](https://github.com/nitroz3us/docstack) |
 | **disable-windows-defender** | PowerShell script that switches Defender off inside malware analysis VMs. | [Code](https://github.com/nitroz3us/disable-windows-defender) |
