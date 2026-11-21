@@ -1,6 +1,6 @@
 # Ashraff (nitroz3us)
 
-Incident responder at EY, based in Singapore. I investigate intrusions and build AI tooling for threat intel and detection teams.
+I build AI tooling for security operations at EY in Singapore. My background is threat hunting, threat intelligence and SOC work.
 
 [mdashraff.com](https://mdashraff.com) · [CTF writeups](https://nitrozeus.gitbook.io/ctfs/) · [LinkedIn](https://www.linkedin.com/in/muhammad-ashraff-69586a17a/) · [Mastodon](https://infosec.exchange/@nitroz3us)
 
