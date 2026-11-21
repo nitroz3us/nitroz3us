@@ -8,8 +8,8 @@ I build AI tooling for security operations at EY in Singapore. My background is 
 
 | Project | What it does | Where |
 | --- | --- | --- |
-| **Huntsman** | Agentic threat hunting on live Splunk. An agent investigates an analyst's question through Splunk MCP, with every search checked by a read-only safety gate. Threat reports become source-cited briefs and hunt hypotheses. | Internal |
-| **Heartbeat** | Collects security news, CVEs, CISA KEV entries and ransomware victims, flags what is relevant to the client, and drafts the weekly threat bulletin as slides, PDF and email. | Internal |
+| **Huntsman** | Agentic AI platform for threat hunting on live Splunk. An LLM agent runs its own searches through tool calling over MCP, inside a harness with read-only guardrails and human-in-the-loop authorization. Outputs are grounded in source citations. | Internal |
+| **Heartbeat** | LLM pipeline for the weekly threat bulletin. Collects security news, CVEs, CISA KEV entries and ransomware victims, scores client relevance with an LLM, and drafts the bulletin as slides, PDF and email for human review. | Internal |
 | **ShadowPulse** | Look up an IP, domain or hash once and get VirusTotal, Shodan, GreyNoise and AbuseIPDB in one view. | [Live](https://shadow-pulse-py.vercel.app/) |
 | **docstack** | Merge, splice and rotate PDFs in the browser. Files never leave your device. | [Live](https://docstack.tools) · [Code](https://github.com/nitroz3us/docstack) |
 | **disable-windows-defender** | PowerShell script that switches Defender off inside malware analysis VMs. | [Code](https://github.com/nitroz3us/disable-windows-defender) |
